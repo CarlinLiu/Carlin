@@ -5,5 +5,19 @@
 
 body {
     background-image: url('img/grey.jpg');
+    color: #000305;
+    font-size: 87.5; /*base font size is 14px, this is 87.5% of it*/
+    font-family: Arial, 'Lucida Sans Unicode';
+    line-height: 1.5;
+    text-align: left;
+}
 
+a {
+  text-decoration: none;
+}
+
+.body {
+  margin: 0 auto;
+  width: 70%;
+  clear: both;
 }
