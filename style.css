@@ -8,7 +8,8 @@
 */
 
 body {
-    background-image: url('img/grey.jpg');
+    /*background-image: url('img/grey.jpg');*/
+    background-color: #DBDBDB;
     color: #000305;
     font-size: 87.5; /*base font size is 14px, this is 87.5% of it*/
     font-family: Arial, 'Lucida Sans Unicode';
@@ -66,6 +67,6 @@ a:hover, a:active {
 
 .mainHeader nav a:hover, mainHeader nav a:active,
 .mainHeader nav .active a:link, .mainHeader nav .active a:visited {
-  background-color: #CF5C3F;
+  background-color: #22BEF2;
   text-shadow: none;
 }
