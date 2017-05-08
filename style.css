@@ -6,6 +6,11 @@
     https://scratch.mit.edu/discuss/topic/212858/?page=1#post-2144927
     http://www.homeandlearn.co.uk/WD/wds5pA.html
 */
+/*  code segment
+https://www.google.ca/search?q=embedded+code+segment&oq=embedded+code+segment&aqs=chrome..69i57j0.3494j0j9&sourceid=chrome&ie=UTF-8#q=display+code+in+html
+  http://stackoverflow.com/questions/4611591/code-vs-pre-vs-samp-for-inline-and-block-code-snippets*/
+/*dropdown
+https://www.w3schools.com/howto/howto_css_dropdown.asp*/
 
 body {
     /*background-image: url('img/grey.jpg');*/
@@ -152,6 +157,7 @@ a:hover, a:active {
 
 .mainFooter {
   width: 100%;
+  height: 40px
   float: left;
   border-radius: 5px;
   -moz-border-radius: 5px;
@@ -163,6 +169,12 @@ a:hover, a:active {
 
 .mainFooter p {
   width: 92%;
-  margin: 2% auto;
+  margin: 1% auto;
   color: #FFF;
 }
+
+/*@media only screen and (min-width: 150px) and (max-width: 600px)
+{
+  https://www.youtube.com/watch?v=eOG90Q8EfRo
+  53:30
+}*/
