@@ -63,10 +63,64 @@ a:hover, a:active {
   color: #FFF;
   display: inline-block;
   padding: 10px 25px;
+  height: 20px;
 }
 
 .mainHeader nav a:hover, mainHeader nav a:active,
 .mainHeader nav .active a:link, .mainHeader nav .active a:visited {
   background-color: #22BEF2;
   text-shadow: none;
+}
+
+/*.mainHeader nav ul li a {
+
+}*/
+
+.mainContent {
+  line-height: 25px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.content {
+  width: 70%;
+  float: left;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.topcontent {
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  padding: 3% 5%;
+  margin-top: 2%;
+}
+
+.bottomcontent {
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  padding: 3% 5%;
+  margin-top: 2%;
+}
+
+.top-sidebar {
+  width: 25%;
+  float: left;
+  background-color: #FFF;
+}
+.middle-sidebar {
+  width: 25%;
+  float: left;
+  background-color: #FFF;
+}
+.bottom-sidebar {
+  width: 25%;
+  float: left;
+  background-color: #FFF;
 }
