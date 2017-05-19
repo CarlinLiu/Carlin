@@ -5,6 +5,8 @@ TODO:
 
   Fix for mobile, resizability
   
+  404 Redirect Page
+  
   Google Ads
   
   Look into multiple pages of articles
@@ -12,3 +14,5 @@ TODO:
   Menu Dropdown Bar
   
   Embedded Youtube and Pics for articles
+  
+  
