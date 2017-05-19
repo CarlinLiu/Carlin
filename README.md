@@ -15,4 +15,5 @@ TODO:
   
   Embedded Youtube and Pics for articles
   
+  SEO
   
